@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+vk:
+  access-token: "your_vk_access_token_here"
+  group-id: your_group_id_here
+  confirmation-code: "your_confirmation_code_here"
+  secret-key: "your_secret_key_here"
